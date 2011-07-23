@@ -30,7 +30,7 @@ pt-BR:
     attributes:
       news_item:
         title: Título
-        body: Corpo
+        content: Conteúdo
         publish_date: Data de publicação
         expiration_date: Data de expiração
     models:
